@@ -1,0 +1,13 @@
+c:\users\shiplu khandakar\documents\visual studio 2010\Projects\Employee Hotal\Employee Hotal\bin\Debug\Employee Hotal.exe
+c:\users\shiplu khandakar\documents\visual studio 2010\Projects\Employee Hotal\Employee Hotal\bin\Debug\Employee Hotal.pdb
+c:\users\shiplu khandakar\documents\visual studio 2010\Projects\Employee Hotal\Employee Hotal\obj\x86\Debug\Employee_Hotal.Form1.resources
+c:\users\shiplu khandakar\documents\visual studio 2010\Projects\Employee Hotal\Employee Hotal\obj\x86\Debug\Employee_Hotal.Properties.Resources.resources
+c:\users\shiplu khandakar\documents\visual studio 2010\Projects\Employee Hotal\Employee Hotal\obj\x86\Debug\Employee Hotal.csproj.GenerateResource.Cache
+c:\users\shiplu khandakar\documents\visual studio 2010\Projects\Employee Hotal\Employee Hotal\obj\x86\Debug\Employee Hotal.exe
+c:\users\shiplu khandakar\documents\visual studio 2010\Projects\Employee Hotal\Employee Hotal\obj\x86\Debug\Employee Hotal.pdb
+c:\users\shiplu khandakar\documents\visual studio 2010\Projects\Employee Hotal\Employee Hotal\obj\x86\Debug\Employee_Hotal.Login.resources
+c:\users\shiplu khandakar\documents\visual studio 2010\Projects\Employee Hotal\Employee Hotal\obj\x86\Debug\Employee_Hotal.Home.resources
+c:\users\shiplu khandakar\documents\visual studio 2010\Projects\Employee Hotal\Employee Hotal\obj\x86\Debug\Employee_Hotal.Employee.resources
+c:\users\shiplu khandakar\documents\visual studio 2010\Projects\Employee Hotal\Employee Hotal\obj\x86\Debug\Employee_Hotal.Employee_Details.resources
+c:\users\shiplu khandakar\documents\visual studio 2010\Projects\Employee Hotal\Employee Hotal\obj\x86\Debug\Employee_Hotal.Salary.resources
+C:\Users\shiplu khandakar\Documents\Visual Studio 2010\Projects\Employee Hotal\Employee Hotal\obj\x86\Debug\Employee Hotal.csprojResolveAssemblyReference.cache
